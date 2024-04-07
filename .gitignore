@@ -198,3 +198,54 @@ cython_debug/
 Новая папка/Блок 7. ML в бизнесе/MATH&ML-12. Временные ряды. Часть I/tovar_moving.zip
 Новая папка/Блок 7. ML в бизнесе/MATH&ML-13. Временные ряды. Часть II/sp500.zip
 Новая папка/Блок 7. ML в бизнесе/MATH&ML-13. Временные ряды. Часть II/ghana_gdp.zip
+client.py
+plot.png
+project_a_venv/pyvenv.cfg
+project_a_venv/Scripts/activate
+project_a_venv/Scripts/activate.bat
+project_a_venv/Scripts/Activate.ps1
+project_a_venv/Scripts/deactivate.bat
+project_a_venv/Scripts/f2py.exe
+project_a_venv/Scripts/pip.exe
+project_a_venv/Scripts/pip3.11.exe
+project_a_venv/Scripts/pip3.exe
+project_a_venv/Scripts/python.exe
+project_a_venv/Scripts/pythonw.exe
+project_b_venv/pyvenv.cfg
+project_b_venv/Scripts/activate
+project_b_venv/Scripts/activate.bat
+project_b_venv/Scripts/Activate.ps1
+project_b_venv/Scripts/deactivate.bat
+project_b_venv/Scripts/f2py.exe
+project_b_venv/Scripts/pip.exe
+project_b_venv/Scripts/pip3.11.exe
+project_b_venv/Scripts/pip3.exe
+project_b_venv/Scripts/python.exe
+project_b_venv/Scripts/pythonw.exe
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-1. Подготовка модели к продакшену и деплой/ex_PMML.ipynb
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-1. Подготовка модели к продакшену и деплой/ex16.ipynb
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-1. Подготовка модели к продакшену и деплой/hw1_check_ol.py
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-1. Подготовка модели к продакшену и деплой/model.ipynb
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-1. Подготовка модели к продакшену и деплой/model.pkl
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-1. Подготовка модели к продакшену и деплой/my_dict.pkl
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-1. Подготовка модели к продакшену и деплой/my_lambda.pkl
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-1. Подготовка модели к продакшену и деплой/my_new_pipeline.pkl
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-1. Подготовка модели к продакшену и деплой/my_pipeline.pkl
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-1. Подготовка модели к продакшену и деплой/myfile.pkl
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-1. Подготовка модели к продакшену и деплой/newex16.ipynb
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-1. Подготовка модели к продакшену и деплой/pipeline.pmml
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-1. Подготовка модели к продакшену и деплой/regr.joblib
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-1. Подготовка модели к продакшену и деплой/server.py
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-2. Воспроизводимость и контейнеризация приложений/plot.py
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-4. AB-тестирование/ab_data.zip
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-4. AB-тестирование/ab_test-redesign_sample_a.zip
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-4. AB-тестирование/ab_test-redesign_sample_b.zip
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-4. AB-тестирование/check_data.xlsx
+Новая папка/Блок 7. ML в бизнесе/DS_PROD-4. AB-тестирование/time_data.xlsx
+Новая папка/Блок 7. ML в бизнесе/MATH&ML-14. Рекомендательные системы. Часть I/dst-3.0_mathml_14_5_rating.csv
+Новая папка/Блок 7. ML в бизнесе/MATH&ML-14. Рекомендательные системы. Часть I/movie.zip
+Новая папка/Блок 7. ML в бизнесе/MATH&ML-14. Рекомендательные системы. Часть I/shared_articles.zip
+Новая папка/Блок 7. ML в бизнесе/MATH&ML-14. Рекомендательные системы. Часть I/users_interactions.zip
+Новая папка/Блок 7. ML в бизнесе/MATH&ML-14. Рекомендательные системы. Часть I/shared_articles/shared_articles.csv
+Новая папка/Блок 7. ML в бизнесе/MATH&ML-14. Рекомендательные системы. Часть I/users_interactions/users_interactions.csv
+Новая папка/Блок 7. ML в бизнесе/MATH&ML-15. Рекомендательные системы. Часть II/netflix_titles.zip
